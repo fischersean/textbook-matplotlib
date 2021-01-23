@@ -33,7 +33,9 @@ plt.style.use("textbook")
 
 ![Scatter Plot](examples/exports/scatter.svg)
 
+### Histogram
 
+![Histogram](examples/exports/hist.svg)
 
 ### Bar Plot
 
