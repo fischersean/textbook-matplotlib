@@ -11,7 +11,7 @@ There are 4 goals in descending priority:
 1. Black and white friendly
 2. Capable of withstanding many poor quality photocopies
 3. Completely non-distracting (no color wanted here!)
-4. Use the fewest lines and the lest shading as will accommodate your data
+4. Use the fewest lines and the least shading as will accommodate your data
 
 This style sheet can only take you so far. You will have to put some effort in to fully realize the ideal set of figures. See the examples below and the code in the examples directory for guidance.Examples
 
