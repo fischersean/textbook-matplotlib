@@ -1,8 +1,8 @@
 ## ***************************************************************************
 ## * FONTS                                                                   *
 ## ***************************************************************************
-# Default fonts. Always use the same type (serif vs sans-serif) as the rest of the paper.
-# It is up to the author to determine which style works best.
+# Default fonts. Always use the same type (serif vs sans-serif) as the rest of 
+# the paper. It is up to the author to determine which style works best.
 # If using serif, use Times New Roman, else Helvtica (Arial on Windoes)
 font.family:  sans-serif
 font.sans-serif: Helvetica
@@ -16,7 +16,8 @@ font.size:    10
 ## ***************************************************************************
 ## * TICKS                                                                   *
 ## ***************************************************************************
-# The label for tick marks should be 1 or 2 points smaller than the axes labels.
+# The label for tick marks should be 1 or 2 points smaller than the axes 
+# labels.
 ytick.labelsize: 9
 xtick.labelsize: 9
 
@@ -38,18 +39,19 @@ axes.spines.top: False
 ## ***************************************************************************
 ## * PATCHES                                                                 *
 ## ***************************************************************************
-# Colors should be avoided unless absolutely necessary. Black and white printing should
-# be the default color mode
+# Colors should be avoided unless absolutely necessary. Black and white 
+# printing should be the default color mode
 patch.edgecolor: black
 
-# Figures that contain patches (mainly histograms) should always have edge colors unless
-# convention within an area of study dictates otherwise.
+# Figures that contain patches (mainly histograms) should always have edge 
+# colors unless convention within an area of study dictates otherwise.
 patch.force_edgecolor: True
 
 ## ***************************************************************************
 ## * ERRORBARS                                                               *
 ## ***************************************************************************
-# Add caps to error bars. They are important for understanding and are part of common convention
+# Add caps to error bars. They are important for understanding and are part of 
+# common convention
 errorbar.capsize: 3
 
 ## ***************************************************************************
@@ -68,7 +70,8 @@ lines.linewidth: 1
 ## ***************************************************************************
 ## * LEGENDS                                                                 *
 ## ***************************************************************************
-# Simple legends are best. No need to distract from the main role as a lookup table
+# Simple legends are best. No need to distract from the main role as a lookup 
+# table
 legend.framealpha: 1
 legend.edgecolor: black
 legend.fancybox: False
@@ -82,11 +85,13 @@ hatch.linewidth: 0.5
 ## ***************************************************************************
 ## * EXPORT                                                                  *
 ## ***************************************************************************
-# Always save as a tight layout. This makes laying the figure out in the doc much cleaner
+# Always save as a tight layout. This makes laying the figure out in the doc 
+# much cleaner
 savefig.bbox: tight
 
-# 600 dpi is a good standard for both print and web. Each journal will have submission
-# guidlines that may overule this setting
+# 600 dpi is a good standard for both print and web. Each journal will have 
+# submission guidlines that may overule this setting
 savefig.dpi: 600
-# 6.5 inches by 4.5 inches is the perfect size for inline figures on a single column US letter sheet
+# 6.5 inches by 4.5 inches is the perfect size for inline figures on a single 
+# column US letter sheet
 figure.figsize: 6.5, 4.5
