@@ -9,7 +9,7 @@ genex:
 
 install:
 	@mkdir ~/.matplotlib/stylelib || \
-		echo "Directory already exists. Skip creation" && \
-		ln ./style/textbook.mplstyle ~/.matplotlib/stylelib/textbook.mplstyle && \
+		echo "Directory already exists. Skip creation"
+	@ln -s ./style/textbook.mplstyle ~/.matplotlib/stylelib/textbook.mplstyle && \
 		echo "File successfully linked"
 
