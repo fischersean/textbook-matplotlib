@@ -24,9 +24,9 @@ xtick.labelsize: 9
 ## ***************************************************************************
 ## * AXES                                                                    *
 ## ***************************************************************************
-# Use inward facing ticks that align to the furthest point along the axis
-xtick.direction: in
-ytick.direction: in
+# Use outward facing ticks that align to the furthest point along the axis
+xtick.direction: out
+ytick.direction: out
 axes.xmargin: 0
 axes.ymargin: 0
 axes.autolimit_mode: round_numbers
