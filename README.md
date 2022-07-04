@@ -1,5 +1,7 @@
 # Textbook Matplotlib Style
 
+**This project has migrated to [sourcehut](https://git.sr.ht/~swf/textbook-mpl)**
+
 *Print-ready style for matplotlib*
 
 This repository contains a matplotlib stylesheet that has taken heavy inspiration from what I believe to be the gold standard of figure-making: *Separation Process Engineering by Phillip C. Wankat*. This textbook has the clearest and most elegantly produced figures that I have ever seen in a technical document. Wankat had-drew all of the figures in that textbook and you can clearly tell he cared deeply about their quality and clarity. If you haven't received a Chemical Engineering degree in the last decade you likely have never used that textbook but if you have, I'm sure it made an impression on you like it did on me.
